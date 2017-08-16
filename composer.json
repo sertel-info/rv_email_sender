@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mashape/unirest-php": "^3.0",
+        "phpmailer/phpmailer": "^5.2",
+        "katzgrau/klogger": "dev-master"
+    }
+}
